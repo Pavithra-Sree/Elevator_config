@@ -1,17 +1,4 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +23,93 @@
     transform: rotate(360deg);
   }
 }
+
+.max_speed{
+  margin: auto;
+  margin-top: 60px;
+  padding-bottom: 30px;
+  height: 80px;
+  width: 600px;
+  border: 3px solid #11889b;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  display: flex;
+ 
+}
+
+.lift_capacity{
+  margin: auto;
+  margin-top: 60px;
+  padding-bottom: 30px;
+  height: 80px;
+  width: 600px;
+  border: 3px solid #11889b;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  display: flex;
+}
+
+.power_cons{
+  margin: auto;
+  margin-top: 60px;
+  padding-bottom: 30px;
+  height: 80px;
+  width: 600px;
+  border: 3px solid #11889b;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  display: flex;
+}
+.lift_brand{
+  margin: auto;
+  margin-top: 60px;
+  padding-bottom: 30px;
+  height: 80px;
+  width: 600px;
+  border: 3px solid #11889b;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  display: flex;
+}
+
+.box{
+  
+  margin: auto;
+  margin-top: 60px;
+  /* padding-top: 80%; */
+  padding-bottom: 30px;
+  height: 80px;
+  width: 600px;
+  border: 3px solid #11889b;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  display: flex;
+
+}
+.nav{
+width: 100%;
+height: 80px;
+margin-top: -50px;
+font-family: 'Roboto Slab', serif;
+font-size: 35px;
+font-weight: 400;
+color: aliceblue;
+line-height: 46px;
+letter-spacing: 0em;
+padding-bottom: 20px;
+background-color: rgb(37, 43, 221);
+align-items: center;
+}
+
+h1{
+  padding-top: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
