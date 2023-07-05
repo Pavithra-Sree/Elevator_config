@@ -9,7 +9,7 @@ function App() {
       </nav>
       <div className='box'>
       <img width='80' height='70' margin-right= '14px'src='https://th.bing.com/th/id/R.6be6a722c4416f06c396226b1e483db8?rik=u9Ic9bQAvkLLTw&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f07%2fBattery-Charging-PNG-Image.png&ehk=MK2mJ1TwbEKRXWsJUgvdVIZVG3kN2oU27mLdfyJ2Vfs%3d&risl=&pid=ImgRaw&r=0'></img>  
-      <p>  Battery_Level : </p>
+      <p>  Battery_Level :</p>
        </div>
        <div className='lift_brand'>
        <img width='80' height='70' margin-right= '14px'src='https://cdn4.iconfinder.com/data/icons/hotel-collection/64/Elevator-hotel-service-travel-1024.png'></img>
