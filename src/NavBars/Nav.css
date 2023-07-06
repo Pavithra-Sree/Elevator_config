@@ -1,0 +1,17 @@
+.nav{
+    height:30px;
+    width: 100%;
+
+    
+    background-color: cornflowerblue;
+}
+
+.btn{
+    height: 40px;
+    width: 60px;
+    background-color: darkred;
+    float: right;
+    color: aliceblue;
+    margin-right: 10px;
+    /* column-gap: 20px; */
+}

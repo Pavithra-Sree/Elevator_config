@@ -1,0 +1,49 @@
+.rectangle{
+    height: 200px;
+    width: 600px;
+    /* background-color: aqua; */
+    border: 5px solid rgb(64, 7, 117);;
+    margin: auto;
+    border-radius: 20px;
+
+    padding: 10px;
+    margin-top: 120px;
+    box-shadow: 10px 10px purple;
+}
+
+.bs{
+    text-align: center;
+    text-shadow: 5px 5px skyblue;
+    font-size: 50px;
+    font-weight: 100;
+    /* color: rgb(222, 14, 167); */
+    color: purple;
+}
+
+.bat_avai{
+    font-weight: bolder;
+}
+
+.h_line {
+    border-bottom: 6px solid rgb(61, 9, 113);
+    width: 104%;
+    margin-left: -10px;
+}
+.b-full{
+    width: 95%;
+    margin-left: 10px;
+    background-color: rgb(255, 0, 0);
+
+}
+
+.b_clr{
+    border-bottom: 10px solid rgb(41, 238, 19);
+    width: 90%;
+    margin-left: 0px;
+}
+
+/* .bd_clr{
+    border-bottom: 10px solid rgb(230, 21, 35);
+    width: 5%;
+    margin-left: 30px;
+} */
