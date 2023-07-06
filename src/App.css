@@ -110,6 +110,26 @@ background-color: rgb(37, 43, 221);
 align-items: center;
 }
 
+.pow_cons{
+  color: blue;
+}
+
+.l_capacity{
+  color: red;
+}
+
+.l_brand{
+  color: blue;
+}
+
+.m_speed{
+  color: red;
+}
+
+.battery_percent{
+  color: rgb(39, 199, 6);
+}
+
 h1{
   padding-top: 20px;
   margin-bottom: 40px;
